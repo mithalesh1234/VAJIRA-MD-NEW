@@ -1,6 +1,8 @@
 
 <h1 align="center">VAJIRA-MD 6.O</h1>
 
+## Have anyone more tha 3 year old whatsapp number message to me now  https://wa.me/94711453361
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
@@ -75,12 +77,13 @@
 
 ## 🎀 STEP 02 -  Get Session
 
-<a href="https://vajirapair-3ea4809cee5a.herokuapp.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+<a href="https://ambitious-laina-vajiratech-7527bf26.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
 `Not come session id use a vpn and try again`
 
 <br>
 <br>
+
 ## 🎀 STEP 03 -  Deployment Methods
 
 <a href="https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
